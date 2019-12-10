@@ -1,0 +1,4 @@
+TILE SIZE IN PIXELS (Tiles should always be square and each tile image should be the same size.)
+test
+AMOUNT OF TILES (Again, this should always create a square.)
+test
